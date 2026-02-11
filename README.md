@@ -26,4 +26,50 @@ This project demonstrates core front-end development skills including responsive
 ---
 
 ## 📂 Project Structure
+webdev-pro-landing-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
+
+---
+
+## 📸 Preview
+
+Landing page includes:
+
+- Navigation bar
+- Hero section with typing animation
+- Feature cards
+- Contact form with validation
+- Dark/Light mode support
+
+---
+
+## 💻 How to Run Locally
+
+1. Download or clone this repository
+2. Open the folder
+3. Double click `index.html`
+4. Open in your browser
+
+---
+
+## 🌍 Live Demo
+
+(You can add GitHub Pages link here after deployment)
+
+---
+
+## 👨‍💻 Author
+
+Ayush Anand  
+GitHub: https://github.com/AyushAnand2121
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
